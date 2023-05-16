@@ -11,11 +11,11 @@ with open('SCAPP_0_Copy1.py','r') as f:
 # In[2]:
 
 
-filepaths = ['/public3/labmember/zhengdh/data/rice/PRJNA767589/SRR16127058/counts.tsv.gz',
- '/public3/labmember/zhengdh/data/rice/PRJNA767589/SRR16127059/counts.tsv.gz',
- '/public3/labmember/zhengdh/data/rice/PRJNA767589/SRR16127057/counts.tsv.gz',
- '/public3/labmember/zhengdh/data/rice/PRJNA767589/SRR16127055/counts.tsv.gz',
- '/public3/labmember/zhengdh/data/rice/PRJNA767589/SRR16127056/counts.tsv.gz']
+filepaths = ['./data/rice/PRJNA767589/SRR16127058/counts.tsv.gz',
+ './data/rice/PRJNA767589/SRR16127059/counts.tsv.gz',
+ './data/rice/PRJNA767589/SRR16127057/counts.tsv.gz',
+ './data/rice/PRJNA767589/SRR16127055/counts.tsv.gz',
+ './data/rice/PRJNA767589/SRR16127056/counts.tsv.gz']
 
 
 # In[3]:
@@ -51,7 +51,7 @@ with open('SCAPP_0_Copy1.py','r') as f:
 # In[6]:
 
 
-filepath =  '/public3/labmember/zhengdh/data/rice/PRJNA767589/SRR16127056/counts.tsv.gz'
+filepath =  './data/rice/PRJNA767589/SRR16127056/counts.tsv.gz'
 scapp = SCAPP_0()
 scapp.to_annotation_0(filepath = filepath)
 
@@ -88,7 +88,7 @@ with open('SCAPP_0_Copy1.py','r') as f:
 # In[10]:
 
 
-filepath =  '/public3/labmember/zhengdh/data/rice/PRJNA767589/SRR16127056/counts.tsv.gz'
+filepath =  './data/rice/PRJNA767589/SRR16127056/counts.tsv.gz'
 scapp = SCAPP_0()
 scapp.to_annotation_0(dpi=600,filepath = filepath)
 
