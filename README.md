@@ -13,7 +13,7 @@ Sincerely thanks to the contributors of python packages such as doubletdetection
 
 If you have questions about scapp, please send email to 12216017@zju.edu.cn.
 
-References:
+References:    
 Harris, C.R., Millman, K.J., van der Walt, S.J., Gommers, R., Virtanen, P., Cournapeau, D., Wieser, E., Taylor, J., Berg, S., Smith, N.J., Kern, R., Picus, M., Hoyer, S., van Kerkwijk, M.H., Brett, M., Haldane, A., del Río, J.F., Wiebe, M., Peterson, P., Gérard-Marchant, P., Sheppard, K., Reddy, T., Weckesser, W., Abbasi, H., Gohlke, C., Oliphant, T.E., (2020). Array programming with NumPy. Nature 585, 357–362. https://doi.org/10.1038/s41586-020-2649-2    
 Korsunsky, I., Millard, N., Fan, J., Slowikowski, K., Zhang, F., Wei, K., Baglaenko, Y., Brenner, M., Loh, P., Raychaudhuri, S., (2019). Fast, sensitive, and accurate integration of single cell data with Harmony. Nat Methods 16, 1289–1296. https://doi.org/10.1038/s41592-019-0619-0    
 Wolf, F.A., Angerer, P., Theis, F.J., (2018). SCANPY: large-scale single-cell gene expression data analysis. Genome Biol 19, 15. https://doi.org/10.1186/s13059-017-1382-0    
