@@ -5,7 +5,7 @@ Single-Cell Auto Annotation Project for Plants on Python
 
 Version 1.0.0
 
-Sincerely thanks to the contributors of python packages such as doubletdetection, numpy, pandas, scanpy, seaborn, scrublet, etc.
+Sincerely thanks to the contributors of python packages such as doubletdetection, numpy, pandas, scanpy, seaborn, scrublet, harmonypy, etc.
 
 If you have questions about scapp, please send email to 12216017@zju.edu.cn.
 
