@@ -3,7 +3,8 @@ SCAPP
 Single-Cell Aid Project for Plants on Python       
 Single-Cell Auto Annotation Project for Plants on Python
 
-Version 1.0.0
+Version 1.0.0      
+You can download the required compressed package files on https://pan.baidu.com/s/1qwpAcdd4NALRgTtTtMnnuw?pwd=wkwr.    
 
 Sincerely thanks to the contributors of python packages such as doubletdetection, numpy, pandas, scanpy, seaborn, scrublet, harmonypy, etc.
 
