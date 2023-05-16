@@ -5,6 +5,9 @@ Single-Cell Auto Annotation Project for Plants on Python
 
 Version 1.0.0      
 You can download the required files on https://pan.baidu.com/s/1qwpAcdd4NALRgTtTtMnnuw?pwd=wkwr.    
+   
+If you want to use the latest version, please download the latest 'SCAPP_XX_XX_XX.py' file and copy the code in it to replace the code in 'SCAPP_0_copy1.py'.     
+Please note that the latest version of the code may cause some undetected bugs.
 
 Sincerely thanks to the contributors of python packages such as doubletdetection, numpy, pandas, scanpy, seaborn, scrublet, harmonypy, etc.
 
