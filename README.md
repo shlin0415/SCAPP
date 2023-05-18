@@ -4,6 +4,7 @@ SCAPP is the same as PCmaster_ann.
     
 PCmaster    
 Plant Cell master    
+https://github.com/shlin0415/PCmaster
 
 PCmaster_ann    
 Plant Cell master for automatic annotation of cell types    
