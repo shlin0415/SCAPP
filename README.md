@@ -1,5 +1,7 @@
 # SCAPP    
-
+SCAPP is a subproject of PCmaster for the time being.
+PCmaster
+Plant Cell master    
 
 SCAPP    
 Single-Cell Aid Project for Plants on Python       
