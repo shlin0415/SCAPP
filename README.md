@@ -1,8 +1,11 @@
 # SCAPP    
-SCAPP is a subproject of PCmaster for the time being.
-PCmaster 
+SCAPP is a subproject of PCmaster.    
+SCAPP == PCmaster_ann    
+    
+PCmaster    
 Plant Cell master    
-
+PCmaster_ann    
+Plant Cell master for automatic annotation of cell types    
 SCAPP    
 Single-Cell Aid Project for Plants on Python       
 Single-Cell Auto Annotation Project for Plants on Python
