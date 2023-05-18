@@ -1,6 +1,6 @@
 # SCAPP    
 SCAPP is a subproject of PCmaster.    
-SCAPP == PCmaster_ann    
+SCAPP == PCmaster_ann.    
     
 PCmaster    
 Plant Cell master    
