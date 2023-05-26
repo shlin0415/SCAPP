@@ -6,7 +6,7 @@ PCmaster
 Plant Cell master    
 https://github.com/shlin0415/PCmaster
 
-PCmaster_ann    
+PCmaster_anno    
 Plant Cell master for automatic annotation of cell types    
 
 SCAPP    
