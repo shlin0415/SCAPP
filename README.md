@@ -15,7 +15,7 @@ Single-Cell Auto Annotation Project for Plants on Python
 
 Version 1.0.0 
 
-#### You can download the required files on https://pan.baidu.com/s/1qwpAcdd4NALRgTtTtMnnuw?pwd=wkwr. ####   
+#### If you don't want to reinstall the conda environment from scratch, you can download the compressed package through [this link](https://pan.baidu.com/s/1qwpAcdd4NALRgTtTtMnnuw?pwd=wkwr), which also contains some files and codes that can be used for testing. ####   
 
 #### You can temporarily get some instructions through "scapp_0_guide_1_mainly_in_Chinese.docx". We are trying to make a guide website. ####
 
