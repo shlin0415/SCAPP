@@ -4,7 +4,9 @@ SCAPP is the old version of PCmaster_anno.
     
 PCmaster    
 Plant Cell master    
-https://github.com/shlin0415/PCmaster
+https://github.com/shlin0415/PCmaster    
+[2023-06-07]    
+https://github.com/bioinplant/PCmaster
 
 PCmaster_anno    
 Plant Cell master for automatic annotation of cell types    
